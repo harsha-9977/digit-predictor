@@ -12,3 +12,5 @@ Deployed as a web app for real-time inference
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
+https://digit-predictor-jhnpuxw8tuxdj7ppnvtsdy.streamlit.app/
