@@ -7,6 +7,9 @@ Handwritten digit recognition using PyTorch + Streamlit
 Built & trained on the MNIST dataset  
 Deployed as a web app for real-time inference
 
+![image](https://github.com/user-attachments/assets/edd053a7-6d80-4acd-936d-a16497689035)
+
+
 ## 🔧 How to Run
 
 ```bash
