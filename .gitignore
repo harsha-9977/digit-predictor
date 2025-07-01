@@ -6,8 +6,8 @@ __pycache__/
 venv/
 .env/
 
-# Model files
-*.pth
+# # Model files
+# *.pth
 
 # OS junk
 .DS_Store
